@@ -1,0 +1,91 @@
+{
+  "menu": [
+    {
+      "category": "Appetizers",
+      "dishes": [
+        {
+          "name": "Bruschetta",
+          "ingredients": [
+            "Toasted bread",
+            "Tomato",
+            "Garlic",
+            "Basil",
+            "Olive oil"
+          ],
+          "price": 12000
+        },
+        {
+          "name": "Pumpkin Soup",
+          "ingredients": [
+            "Pumpkin",
+            "Onion",
+            "Garlic",
+            "Heavy cream",
+            "Spices",
+            "Croutons"
+          ],
+          "price": 20000
+        }
+      ]
+    },
+    {
+      "category": "Main Courses",
+      "dishes": [
+        {
+          "name": "Grilled Beef Steak",
+          "ingredients": [
+            "Beef steak",
+            "Potatoes",
+            "Lettuce",
+            "Tomato",
+            "Carrot",
+            "Dressing"
+          ],
+          "price": 45000
+        },
+        {
+          "name": "Chicken Alfredo Pasta",
+          "ingredients": [
+            "Pasta",
+            "Chicken breast",
+            "Heavy cream",
+            "Parmesan cheese",
+            "Butter",
+            "Garlic"
+          ],
+          "price": 30000
+        }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "dishes": [
+        {
+          "name": "Cheesecake",
+          "ingredients": [
+            "Cookies",
+            "Butter",
+            "Cream cheese",
+            "Sugar",
+            "Eggs",
+            "Red fruit jam"
+          ],
+          "price": 18000
+        },
+        {
+          "name": "Artisanal Ice Cream",
+          "ingredients": [
+            "Milk",
+            "Cream",
+            "Sugar",
+            "Vanilla (optional)",
+            "Chocolate (optional)",
+            "Strawberry (optional)"
+          ],
+          "price": 10000
+        }
+      ]
+    }
+  ]
+}
+
